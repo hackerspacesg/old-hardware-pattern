@@ -8,11 +8,8 @@ assignees: ''
 ---
 
 <!--Delete/fill as needed-->
-
-# <!--Item Name-->
-## <!--Description-->
+<!--Description-->
+- **Condition:** Usable/Unknown/Needs Restoration
+- **Disposal Deadline:** 31 February 2030
 
 <!--Image here-->
-
-State: Usable/Unknown/Needs Restoration
-Disposal Deadline: 31 February 2030
